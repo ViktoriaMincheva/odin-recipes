@@ -1,0 +1,33 @@
+.title{
+    text-align: center;
+    font-size: 45px;
+}
+.main-page{
+    color: #a98445;
+    text-align: center;
+    font-size: 25px;
+    margin-right: 12px;
+}
+.title.main {
+    color: #e4b461;
+}
+
+.image {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+.text-style {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h3, h4, p, ul, ol {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.smaller-titles{
+    color: #a98445;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(255, 252, 248);
+}
